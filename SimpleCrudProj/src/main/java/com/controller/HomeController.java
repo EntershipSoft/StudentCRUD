@@ -1,3 +1,4 @@
+
 package com.controller;
 
 import org.springframework.stereotype.Controller;
@@ -16,4 +17,5 @@ public String welcome()
 	System.out.println("In / mapping ");
 	return "Login";
 }
+  
 }
