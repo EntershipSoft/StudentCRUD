@@ -8,6 +8,6 @@
 </head>
 <body>
 register page.................
-hhhhhhhhhhhhhhhhh
+
 </body>
 </html>
