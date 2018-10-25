@@ -13,7 +13,7 @@ ServiceInterface service;
 @RequestMapping("/")
 public String welcome()
 
-{bbbbbbbbbbbbbbbbb
+{
 	System.out.println("In / mapping ");
 	return "Login";
 }
