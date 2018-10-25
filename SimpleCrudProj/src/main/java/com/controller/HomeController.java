@@ -2,16 +2,6 @@
 package com.controller;
 
 import org.springframework.stereotype.Controller;
-
-@Controller
-public class HomeController {
-//hiiiiiii
-	//hhhhhhhhhh
-}
-
-package com.controller;
-
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.serviceInterface.ServiceInterface;
