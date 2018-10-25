@@ -7,6 +7,7 @@ import com.serviceInterface.ServiceInterface;
 
 @Controller
 public class HomeController {
+
 ServiceInterface service;
 @RequestMapping("/")
 public String welcome()
@@ -15,4 +16,4 @@ public String welcome()
 	System.out.println("In / mapping ");
 	return "Login";
 }
-}
+
