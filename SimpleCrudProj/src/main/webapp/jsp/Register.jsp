@@ -6,14 +6,16 @@
 <h1>**Register page**</h1>
 </head>
 <body>
+<form action="reg">
 <pre>
 Name:-<input type="text" name="name">
 
-Username:-<input type="text" name="name">
+Username:-<input type="text" name="username">
 
-Password:-<input type="text" name="name">
+Password:-<input type="text" name="password">
 
-<input type="submit" name="Registered">
+           <input type="submit" name="Registered">
 </pre>
+</form>
 </body>
 </html>
